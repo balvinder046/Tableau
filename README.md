@@ -1,7 +1,5 @@
 # Tableau Dashboard Links
  
-This Repository will hold links to Tableau Public Dashboard
+This Repository will hold links to Tableau Dashboard for projects on COVID 19, AirBnb, Bike Store sales and many more
 
-Bike store sales dashboard practice set - https://public.tableau.com/app/profile/balvinder.singh4382/viz/Bikestoresalesdashboardpracticeset/REVENUEPERCOUNTRY
-
-practice - bike sales set - https://public.tableau.com/app/profile/balvinder.singh4382/viz/practice-bikesalesset/REVENUEPERCOUNTRYVIAPIECHART
+https://public.tableau.com/app/profile/balvinder.singh4382
